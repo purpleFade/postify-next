@@ -2,6 +2,10 @@
 
 Postify, your dedicated platform for sharing your blogging prowess, leverages a powerful blend of technologies to deliver a seamless and enjoyable experience for creators and readers alike. Let's delve into the key ingredients that power this blogging haven:
 
+## If you have troubles with registration, you can login to existing account: 
+## Login: Behelit
+## Password: password1
+
 ## Technologies Used:
 
 ### Frontend:
